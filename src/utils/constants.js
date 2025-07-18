@@ -1,1 +1,1 @@
-const BASE_URL = "https://devmatch-y8me.onrender.com";
+export const BASE_URL = "https://devmatch-y8me.onrender.com";
